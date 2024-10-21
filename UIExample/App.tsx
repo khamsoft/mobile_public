@@ -38,6 +38,7 @@ class App extends Component {
     console.log('Email:', email);
     console.log('Phone:', phone);
     console.log('Address:', address);
+    console.log('Clicked the login button');
   };
 
   render() {
